@@ -21,20 +21,17 @@ nav: true
 <hr>
 <!-- shoestring -->
 <div class="publications" style="text-align: center;">
-<img src="../assets/img/wlin-cvpr20.png"  width="80%" height="50%">
 <p style="width:100%;  margin- right:5px;margin-top:5px;"><br>Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Shoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, &#8221; in the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020. <a href="../assets/publications/wlin-cvpr20.pdf">[paper]</a><a href="../assets/publications/wlin-cvpr20-slides.pdf">[slides]</a></p>
 <br>
 <hr>
 <!-- Guardian -->
 <div class="publications">
-<img src="../assets/img/wlin-infocom20.jpeg"  width="60%" height="25%">
 <p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221; in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.  <a href="../assets/publications/wlin-infocom20.pdf">[paper]</a><a href="../assets/publications/wlin-infocom20-slides.pdf">[slides]</a></p>
 </div>
 <br>
 <hr>
 <!-- adversarial attacks -->
 <div class="publications" style="text-align: center;">
-<img src="../assets/img/wlin-asiaccs20.jpeg"  width="65%" height="50%"><p style="width:100%">
 <p style="width:100%">Wanyu Lin, Shengxiang Ji, Baochun Li. &#8220;Adversarial Attacks on Link Prediction Algorithms based on Graph Neural Networks, &#8221; in the Proceedings of the 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020), Taipei, Taiwan, October 5-9, 2020. <a href="../assets/publications/wlin-asiaccs20.pdf">[paper]</a></p>
 <br>
 <hr>
