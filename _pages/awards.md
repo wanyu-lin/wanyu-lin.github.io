@@ -5,6 +5,7 @@ title: Awards
 description: Selected awards
 nav: true
 ---
+<br>
 <!-- If delete the space, delete the <br> -->
 <ul class="square">
 <li>INFOCOM Student Conference Award, IEEE Communications Society, 2020.</li>
@@ -23,13 +24,15 @@ nav: true
 <br>
 <li>Outstanding Graduates Award, Huazhong University of Science and Technology, 2012.</li>
 <br>
+
+<!--
 <li>National Encouragement Scholarship, Huazhong University of Science and Technology, 2010 - 2011.</li>
 <br>
 <li>Outstanding Student Scholarship, Huazhong University of Science and Technology, 2010 - 2011.</li>
 <br>
 <li>Merit Student Award, Huazhong University of Science and Technology, 2010.</li>
 <br>
-
+-->
 <!-- 
 
 <li><i>Self-Renewal Scholarship</i>, Huazhong University of Science and Technology, 2008 and 2009.</li>
