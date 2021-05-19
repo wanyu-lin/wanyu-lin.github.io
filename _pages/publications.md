@@ -24,13 +24,6 @@ nav: true
 <div class="publications">
 <p style="width:100%">Wanyu Lin, Shengxiang Ji, Baochun Li. &#8220;Adversarial Attacks on Link Prediction Algorithms based on Graph Neural Networks, &#8221; in the Proceedings of the 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020), Taipei, Taiwan, October 5-9, 2020. <a href="../assets/publications/wlin-asiaccs20.pdf">[paper]</a></p>
 
-<div class="publications">
-<p style="width:100%">Wanyu Lin, Xu Yuan, Baochun Li, Cong Wang. &#8220;Muti-Client Searchable Encryption over Distributed Key-Value Store, &#8221; in the Proceedings of IEEE International Conference on Smart Computing (SMARTCOMP 2017), Hong Kong, China, May 29-31, 2017.</p>
-
-<!-- Towards Energy-->
-<div class="publications">
-<p style="width:100%">Wanyu Lin, Jiannong Cao, Xuefeng Liu. &#8220;E³: Towards Energy-Efficient Distributed Least Aquares Estimation in Sensor Networks, &#8221; in the Proceedings of IEEE/ACM International Symposium on Quality of Service (IWQoS 2014), Hong Kong, China, May 26-27, 2014.</p>
-
 
 
 
