@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-02-26 07:59:00-0400
+date: 2020-12-04 07:59:00-0400
 inline: true
 ---
 
-Our paper, Shoestring, was accepted by CVPR 2020.
+Our paper, Medley, was accepted by INFOCOM 2021.
 :sparkles: 

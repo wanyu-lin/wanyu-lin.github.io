@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-06-08 16:11:00-0400
+date: 2020-12-02 16:11:00-0400
 inline: true
 ---
-INFOCOM 2020 Student Conference Award. :smile: 
+One paper accepted by TPDS 2021. :smile: 
