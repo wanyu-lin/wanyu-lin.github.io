@@ -15,7 +15,7 @@ nav: true
 
 <p>Wanyu has been a runner since 2013. She has completed her first half-marathon in Standard Chartered Hong Kong Marathon, 2014, and her first full marathon in Toronto ScotialBank Marathon, 2017. </p>
 
-<a href="../assets/publications/cv.pdf">Wanyu’s </a>Curriculum Vitae as of August 2020. 
+<a href="../assets/publications/cv.pdf">Wanyu’s </a>Curriculum Vitae as of May 2021. 
 </div>
 
 
