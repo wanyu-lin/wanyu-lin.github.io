@@ -14,14 +14,12 @@ profile:
 news: true
 social: true
 ---
-Wanyu currently is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University.
+Wanyu is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University.
 <br>
-Wanyu's research generally centers on developing machine learning algorithms for graph-structured data. Currently, she focuses on model explanations for graph neural networks and machine learning in adversarial settings. She has worked on applying graph representation learning to various domains, such as computer vision, and social networks. 
+Wanyu’s main research interest is in developing machine learning algorithms for graph-structured data. Currently, her research activities focus on model explanations for graph neural networks and trustworthy machine learning. Wanyu's methods of graph representation learning have been applied to various fields, such as computer vision and social networks.
 
-Wanyu enjoys reading, singing, and jogging in her leisure time. She loves to explore new places and enjoys natural beauties in the form of daily jogging.
+Wanyu enjoys reading, singing, and jogging in her leisure time. She also loves to visit new places, meet new friends, and explore nature.
 <br>
-
-
 
 
 
