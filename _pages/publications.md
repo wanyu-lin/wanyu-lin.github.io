@@ -16,7 +16,7 @@ nav: true
 
 <!-- TPDS -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Helei Cui, Baochun Li, Cong Wang. &#8220;Privacy-Preserving Similarity Search with Efficient Updates in Distributed Key-Value Stores, &#8221; in IEEE Transactions on Parallel and Distributed Systems, vol. 32, no. 5, pp. 1072-1084, May 2021.</p>
+<p style="width:100%">Wanyu Lin, Helei Cui, Baochun Li, Cong Wang. &#8220;Privacy-Preserving Similarity Search with Efficient Updates in Distributed Key-Value Stores, &#8221; in IEEE Transactions on Parallel and Distributed Systems, vol. 32, no. 5, pp. 1072-1084, May 2021.<a href="../assets/publications/wlin-tpds21.pdf">[paper]</a></p>
 
 <!-- Guardian -->
 <div class="publications">
