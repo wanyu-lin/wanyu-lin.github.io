@@ -12,7 +12,7 @@ nav: true
 
 <!-- Medley -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Baochun Li. &#8220;Medley: Predicting Social Trust in Time-Varying Online Social Networks, &#8221; in the Proceedings of IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021. <a href="../assets/publications/wlin-infocom21.pdf">[paper]</a><a href="../assets/publications/wanyu-infocom21-slides.pdf">[slides]</a></p>
+<p style="width:100%">Wanyu Lin, Baochun Li. &#8220;Medley: Predicting Social Trust in Time-Varying Online Social Networks, &#8221; in the Proceedings of IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021. <a href="../assets/publications/wlin-infocom21.pdf">[paper]</a><a href="../assets/publications/wanyu-infocom21-slides.pdf">[presentation slides]</a></p>
 
 <!-- TPDS -->
 <div class="publications">
@@ -20,11 +20,11 @@ nav: true
 
 <!-- Guardian -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221; in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.  <a href="../assets/publications/wlin-infocom20.pdf">[paper]</a><a href="../assets/publications/wlin-infocom20-slides.pdf">[slides]</a></p>
+<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221; in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.  <a href="../assets/publications/wlin-infocom20.pdf">[paper]</a><a href="../assets/publications/wlin-infocom20-slides.pdf">[presentation slides]</a></p>
 
 <!-- shoestring -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Shoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, &#8221; in the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020. <a href="../assets/publications/wlin-cvpr20.pdf">[paper]</a><a href="../assets/publications/wlin-cvpr20-slides.pdf">[slides]</a></p>
+<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Shoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, &#8221; in the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020. <a href="../assets/publications/wlin-cvpr20.pdf">[paper]</a><a href="../assets/publications/wlin-cvpr20-slides.pdf">[presentation slides]</a></p>
 
 
 
