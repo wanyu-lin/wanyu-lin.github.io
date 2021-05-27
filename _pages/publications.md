@@ -12,7 +12,7 @@ nav: true
 
 <!-- Medley -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Baochun Li. &#8220;Medley: Predicting Social Trust in Time-Varying Online Social Networks, &#8221; in the Proceedings of IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021. <a href="../assets/publications/wlin-infocom21.pdf">[paper]</a></p>
+<p style="width:100%">Wanyu Lin, Baochun Li. &#8220;Medley: Predicting Social Trust in Time-Varying Online Social Networks, &#8221; in the Proceedings of IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021. <a href="../assets/publications/wlin-infocom21.pdf">[paper]</a><a href="../assets/publications/wlin-infocom21-slides.pdf">[slides]</a></p>
 
 <!-- TPDS -->
 <div class="publications">
