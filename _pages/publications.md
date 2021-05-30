@@ -16,11 +16,11 @@ nav: true
 
 <!-- TPDS -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Helei Cui, Baochun Li, Cong Wang. &#8220;Privacy-Preserving Similarity Search with Efficient Updates in Distributed Key-Value Stores, &#8221; in IEEE Transactions on Parallel and Distributed Systems, vol. 32, no. 5, pp. 1072-1084, May 2021.<a href="../assets/publications/wanyu-tpds21.pdf">[paper]</a></p>
+<p style="width:100%">Wanyu Lin, Helei Cui, Baochun Li, Cong Wang. &#8220;<a href="../assets/publications/wanyu-tpds21.pdf"> Privacy-Preserving Similarity Search with Efficient Updates in Distributed Key-Value Stores, &#8221;</a> in IEEE Transactions on Parallel and Distributed Systems, vol. 32, no. 5, pp. 1072-1084, May 2021.</p>
 
 <!-- Guardian -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221; in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.  <a href="../assets/publications/wlin-infocom20.pdf">[paper]</a><a href="../assets/publications/wlin-infocom20-slides.pdf">[presentation slides]</a></p>
+<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;<a href="../assets/publications/wlin-infocom20.pdf">Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221;</a> in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.<a href="../assets/publications/wlin-infocom20-slides.pdf">[presentation slides]</a></p>
 
 <!-- shoestring -->
 <div class="publications">
