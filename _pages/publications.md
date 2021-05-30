@@ -24,7 +24,7 @@ nav: true
 
 <!-- shoestring -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;<a href="../assets/publications/wlin-cvpr20.pdf"> Shoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, &#8221;</a> in the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020. <a href="../assets/publications/wlin-cvpr20-slides.pdf">[presentation slides]</a></p>
+<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;<a href="../assets/publications/wlin-cvpr20.pdf"> Shoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, &#8221;</a> in the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020. <a href="../assets/publications/wlin-cvpr20-slides.pdf">[presentation slides]</a><a href="https://github.com/iQua/CVPR2020-Shoestring">[code]</a></p></p>
 
 
 
