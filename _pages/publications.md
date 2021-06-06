@@ -8,7 +8,8 @@ nav: true
 ---
 <!-- Gem -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Hao Lan, Baochun Li. &#8220;Generative Causal Explanations for Graph Neural Networks, &#8221; in the Proceedings of the 38th International Conference on Machine Learning (ICML 2021), Online, July 18-24, 2021</p>
+<p style="width:100%">Wanyu Lin, Hao Lan, Baochun Li. &#8220;<a href="../assets/publications/wanyu-icml21.pdf">Generative Causal Explanations for Graph Neural Networks, &#8221; in the Proceedings of the 38th International Conference on Machine Learning (ICML 2021), Online, July 18-24, 2021. <a href="https://github.com/wanyu-lin/ICML2021-Gem">[code]</a></p>
+
 
 <!-- Medley -->
 <div class="publications">
