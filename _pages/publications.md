@@ -21,7 +21,7 @@ nav: true
 
 <!-- Guardian -->
 <div class="publications">
-<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;<a href="../assets/publications/wlin-infocom20.pdf">Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221;</a> in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020. <a href="https://github.com/wanyu-lin/INFOCOM2020-Guardian">[code]</a><a href="../assets/publications/wlin-infocom20-slides.pdf">[presentation slides]</a></p>
+<p style="width:100%">Wanyu Lin, Zhaolin Gao, Baochun Li. &#8220;<a href="../assets/publications/wlin-infocom20.pdf">Guardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, &#8221;</a> in the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020. <a href="../assets/publications/wlin-infocom20-slides.pdf">[presentation slides]</a><a href="https://github.com/wanyu-lin/INFOCOM2020-Guardian">[code]</a></p>
 
 <!-- shoestring -->
 <div class="publications">
