@@ -7,6 +7,7 @@ profile:
   align: right
   image: wanyu.jpg
   address: 
+     <p>Department of Data Science and Artificial Intelligence</p>
     <p>Department of Computing</p>
     <p>The Hong Kong Polytechnic University</p>
     <p>PQ730, Mong Man Wai Building</p>
@@ -25,7 +26,6 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <ul class="square">
 <li>Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HUST)</li>
-<li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
 <li>Mingxuan Ouyang (Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
@@ -33,6 +33,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)</li>
 <li>Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
+<li>Jiangwen Liang (URIS Program, Undergraduate Student at HK PolyU)</li>
 
 <br>
 
