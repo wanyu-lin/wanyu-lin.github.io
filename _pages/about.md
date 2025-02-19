@@ -31,13 +31,13 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)</li>
 <li>Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
-<li>Jiangwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
+<li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
 
 <br>
 
 <p> <strong>Alumni</strong>
 <li>Jian Chen will join China University of Geosciences (Wuhan) as an Assistant Professor</li>
-<li>Zhengzhong Wang, now Assistant Professor at Xiamen University</li>
+<li>Zhengzhong Wang, now an Assistant Professor at Xiamen University</li>
 <br>
 <p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
 <br>
