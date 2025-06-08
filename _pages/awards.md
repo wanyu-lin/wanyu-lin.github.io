@@ -9,6 +9,7 @@ nav: true
 <ul class="square">
 <p><hr>
 <strong>Selected Awards</strong>
+<li> PolyU Young Innovative Researcher Award, 2025 </li>
 <li> CVPR 2022 Best Paper Finalist, 2022</li>
 <li>INFOCOM Student Conference Award, IEEE Communications Society, 2020</li>
 <li>SGS Conference Grant, School of Graduate Studies, University of Toronto, 2020</li>
