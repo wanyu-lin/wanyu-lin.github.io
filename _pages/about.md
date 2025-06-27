@@ -31,7 +31,6 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Guodong Du (incoming Ph.D. Candidate, Previously Undergraduate Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Zeyu An (incoming Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
 <li>Shuhao Li (incoming Ph.D. Candidate, Previously Undergraduate Student at Lanzhou University)</li>
-
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
