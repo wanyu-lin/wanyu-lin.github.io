@@ -17,7 +17,7 @@ social: true
 ---
 Wanyu is an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu is serving as an Associate Editor for  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems">IEEE Transactions On Neural Networks and Learning Systems</a> (TNNLS) and Associate Editor for  <a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci">IEEE Transactions on Emerging Topics in Computational Intelligence </a> (TETCI).
 
-Wanyu’s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, structure safety); 2) creating caollaborative AI systems (federated learning/multi-agent systems) with various trustworthy objectives, such as interpretability, privacy and safety.
+Wanyu’s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (Geometric GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, drug discovery); 2) creating collaborative AI systems (federated learning/multi-agent systems) with various trustworthy objectives, such as interpretability, privacy and safety.
 
 
 <br>
@@ -31,8 +31,8 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Guodong Du (incoming Ph.D. Candidate, Previously Undergraduate Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Zeyu An (incoming Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
 <li>Shuhao Li (incoming Ph.D. Candidate, Previously Undergraduate Student at Lanzhou University)</li>
-<li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
-<li>Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)</li>
+<li>Zehui Lin (incoming Mphil Candidate, Previously Undergraduate Student at the University of Sydney)</li>
+<li>Minfeng Wu (incoming Mphil Candidate, Previously Undergraduate Student at Xiamen University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
 <li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
 <li>Shuxiu Jia (URIS Program, Undergraduate Student at HK PolyU)</li>
