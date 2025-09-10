@@ -33,7 +33,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Shuhao Li (Ph.D. Candidate, Previously Undergraduate Student at Lanzhou University)</li>
 <li>Zehui Lin (incoming Mphil Candidate, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Minfeng Wu (incoming Mphil Candidate, Previously Undergraduate Student at Xiamen University)</li>
-<li>Jia Yuang Zhang (Research Assistant, a Phd candidate at Beihang University)</li>
+<li>Jiayuan Zhang (Research Assistant, a Phd candidate at Beihang University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
 <li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
 <li>Shuxiu Jia (URIS Program, Undergraduate Student at HK PolyU)</li>
