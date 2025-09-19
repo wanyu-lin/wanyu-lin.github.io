@@ -31,18 +31,20 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Guodong Du (Ph.D. Candidate, Previously Undergraduate Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Zeyu An (Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
 <li>Shuhao Li (Ph.D. Candidate, Previously Undergraduate Student at Lanzhou University)</li>
-<li>Zehui Lin (incoming Mphil Candidate, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Minfeng Wu (incoming Mphil Candidate, Previously Undergraduate Student at Xiamen University)</li>
+<li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Jiayuan Zhang (Research Assistant, a Phd candidate at Beihang University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
+<li>Zhang Chusong (Research Assistant, Undergraduate Student at Zhejiang University)</li>
 <li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
 <li>Shuxiu Jia (URIS Program, Undergraduate Student at HK PolyU)</li>
 
 <br>
 
 <p> <strong>Alumni</strong>
-<li>Jian Chen, an Assistant Professor at China University of Geosciences (Wuhan)</li>
-<li>Zhengzhong Wang, an Assistant Professor at Xiamen University</li>
+<li>Jian Chen, Postdoctor (2023-2025), now an Assistant Professor at China University of Geosciences (Wuhan)</li>
+<li>Zhengzhong Wang, Ph.d. (2021-2024), now an Assistant Professor at Xiamen University</li>
+<li>Jialu Li, Research Assistant (2021), now a Ph.d. Candidate at Tijian University</li>
 <br>
 <p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
 <br>
