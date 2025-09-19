@@ -35,7 +35,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Jiayuan Zhang (Research Assistant, a Phd candidate at Beihang University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
-<li>Zhang Chusong (Research Assistant, Undergraduate Student at Zhejiang University)</li>
+<li>Chusong Zhang (Research Assistant, Undergraduate Student at Zhejiang University)</li>
 <li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
 <li>Shuxiu Jia (URIS Program, Undergraduate Student at HK PolyU)</li>
 
