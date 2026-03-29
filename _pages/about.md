@@ -7,7 +7,6 @@ profile:
   align: right
   image: wanyu.jpg
   address: 
-     <p>Department of Data Science and Artificial Intelligence</p>
     <p>Department of Computing</p>
     <p>The Hong Kong Polytechnic University</p>
     <p>PQ730, Mong Man Wai Building</p>
