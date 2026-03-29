@@ -45,6 +45,6 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Zhengzhong Wang, Ph.d. (2021-2024), now an Assistant Professor at Xiamen University</li>
 <li>Jialu Li, Research Assistant (2021), now a Ph.d. Candidate at Tijian University</li>
 <br>
-<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
+<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and Agentic AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics or physics backgrounds are preferred. </strong>
 <br>
 <br>
