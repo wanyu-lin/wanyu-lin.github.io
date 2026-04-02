@@ -38,7 +38,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <br>
 
-<p> <strong>Doctor of FinTech Students from Business School</strong>
+<p> <strong>Doctor of FinTech Students from The School of Business</strong>
 <ul class="square">
 <li>Shuang Qiu (DFinTech Candidate 2025- , Thesis -- GNNs for Company Credit Evaluation)</li>
  <li>Yan Wong (DFinTech Candidate 2024- , Thesis -- LLMs for Trading)</li>
@@ -46,6 +46,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <br>
 
 <p> <strong>Alumni</strong>
+<ul class="square">
 <li>Jiayuan Zhang (Research Assistant 2025-2026, a Phd candidate at Beihang University)</li>
 <li>Chusong Zhang (Summer Research Intern (2025), Undergraduate Student at Zhejiang University)</li>
 <li>Jian Chen, Postdoctor (2023-2025), now an Assistant Professor at China University of Geosciences (Wuhan)</li>
