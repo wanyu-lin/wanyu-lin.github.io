@@ -39,7 +39,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <br>
 
-<p> <strong>Doctor of FinTech Students from The School of Business</strong>
+<p> <strong>Doctor of FinTech students from the School of Business I have been supervising</strong>
 <ul class="square">
 <li>Shuang Qiu (DFinTech Candidate 2025- , Thesis -- GNNs for Company Credit Evaluation)</li>
  <li>Yan Wong (DFinTech Candidate 2024- , Thesis -- LLMs for Trading)</li>
