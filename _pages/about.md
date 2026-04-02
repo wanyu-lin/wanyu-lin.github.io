@@ -23,6 +23,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <p> <strong>Research Team</strong>
 <ul class="square">
+<li>Shuyong Gao (Post-Doctoral Fellow, Previously Phd and Post-Doctor at Fudan University)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
 <li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
 <li>Zhuoran Li (Ph.D. Candidate, Previously Master Student at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
