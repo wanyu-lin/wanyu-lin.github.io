@@ -47,11 +47,11 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <p> <strong>Alumni</strong>
 <ul class="square">
-<li>Jiayuan Zhang (Research Assistant 2025-2026, a Phd candidate at Beihang University)</li>
-<li>Chusong Zhang (Summer Research Intern (2025), Undergraduate Student at Zhejiang University)</li>
-<li>Jian Chen, Postdoctor (2023-2025), now an Assistant Professor at China University of Geosciences (Wuhan)</li>
-<li>Zhengzhong Wang, Ph.d. (2021-2024), now an Assistant Professor at Xiamen University</li>
-<li>Jialu Li, Research Assistant (2021), now a Ph.d. Candidate at Tijian University</li>
+<li>Jiayuan Zhang (Research Assistant 2025-2026), a Phd candidate at Beihang University</li>
+<li>Chusong Zhang (Summer Research Intern 2025), Undergraduate Student at Zhejiang University</li>
+<li>Jian Chen (Postdoctor 2023-2025), an Assistant Professor at China University of Geosciences (Wuhan)</li>
+<li>Zhengzhong Wang (Ph.d. 2021-2024), an Assistant Professor at Xiamen University</li>
+<li>Jialu Li, Research Assistant (2021), a Ph.d. Candidate at Tijian University</li>
 <br>
 <p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and Agentic AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics or physics backgrounds are preferred. </strong>
 <br>
