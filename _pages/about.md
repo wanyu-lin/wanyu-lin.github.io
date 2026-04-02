@@ -16,7 +16,7 @@ social: true
 ---
 Wanyu is an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu was an Associate Editor for  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems">IEEE Transactions On Neural Networks and Learning Systems</a> (TNNLS) in 2022-2026. Now she is serving as an Associate Editor for  <a href="https://cis.ieee.org/publications/ci-magazine">IEEE Computational Intelligence Magazine</a>, Associate Editor for  <a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci">IEEE Transactions on Emerging Topics in Computational Intelligence </a> (TETCI), and on the  Editor Board of  <a href="https://link.springer.com/journal/12293"> Memetic Computing</a>.
 
-Wanyu’s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (Geometric GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, drug discovery); 2) creating collaborative AI systems (federated learning/multi-agent systems) with various trustworthy objectives, such as interpretability, privacy and safety.
+Wanyu’s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (Geometric GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, drug discovery); 2) creating collaborative AI systems (multi-agent systems) with various objectives, such as robustness, efficiency, privacy and safety.
 
 
 <br>
