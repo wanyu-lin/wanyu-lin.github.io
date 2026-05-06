@@ -26,12 +26,14 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Shuyong Gao (Postdoctor Fellow, Previously Ph.D. and Postdoctor at Fudan University)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
 <li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
-<li>Zhuoran Li (Ph.D. Candidate, Previously Master Student at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
-<li>Guodong Du (Ph.D. Candidate, Previously Undergraduate Student at University of Electronic Science and Technology of China (UESTC))</li>
-<li>Zeyu An (Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
-<li>Shuhao Li (Ph.D. Candidate, Previously Undergraduate Student at Lanzhou University)</li> 
-<li>Mingxuan Ouyang (Mphil Candidate, Previously Master Student at HK PolyU)</li>
-<li>Minfeng Wu (Mphil Candidate, Previously Undergraduate Student at Xiamen University)</li>
+<li>Zhuoran Li (Ph.D. Candidate, Previously Master at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
+<li>Guodong Du (Ph.D. Candidate, Previously Undergraduate at University of Electronic Science and Technology of China (UESTC))</li>
+<li>Zeyu An (Ph.D. Candidate, Previously Master at the University of Electronic Science and Technology of China (UESTC))</li>
+<li>Shuhao Li (Ph.D. Candidate, Previously Undergraduate at Lanzhou University)</li>
+<li>Pengfei Zheng (Incoming Ph.D. Candidate, Previously Master at New York University)
+<li>Yixiang Chen (Incoming Ph.D. Candidate, Previously Undergraduate at HKUST) 
+<li>Mingxuan Ouyang (Mphil Candidate, Previously Master at HK PolyU)</li>
+<li>Minfeng Wu (Mphil Candidate, Previously Undergraduate at Xiamen University)</li>
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
 <li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
