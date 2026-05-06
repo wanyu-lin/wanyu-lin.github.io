@@ -25,12 +25,12 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <ul class="square">
 <li>Shuyong Gao (Postdoctor Fellow, Previously Ph.D. and Postdoctor at Fudan University)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at the University of Electronic Science and Technology of China (UESTC))</li>
-<li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
+<li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate at Zhejiang University)</li>
 <li>Zhuoran Li (Ph.D. Candidate, Previously Master at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
-<li>Guodong Du (Ph.D. Candidate, Previously Undergraduate at University of Electronic Science and Technology of China (UESTC))</li>
-<li>Zeyu An (Ph.D. Candidate, Previously Master at the University of Electronic Science and Technology of China (UESTC))</li>
+<li>Guodong Du (Ph.D. Candidate, Previously Undergraduate at UESTC)</li>
+<li>Zeyu An (Ph.D. Candidate, Previously Master at the University of UESTC)</li>
 <li>Shuhao Li (Ph.D. Candidate, Previously Undergraduate at Lanzhou University)</li>
-<li>Pengfei Zheng (Incoming Ph.D. Candidate, Previously Master at New York University)
+<li>Pengfei Zheng (Incoming Ph.D. Candidate, Previously Master at New York University Undergraduate at University of California, Santa Barbara)
 <li>Yixiang Chen (Incoming Ph.D. Candidate, Previously Undergraduate at HKUST) 
 <li>Mingxuan Ouyang (Mphil Candidate, Previously Master at HK PolyU)</li>
 <li>Minfeng Wu (Mphil Candidate, Previously Undergraduate at Xiamen University)</li>
