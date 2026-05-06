@@ -1,7 +1,7 @@
 ---
 layout: post
 inline: true
-date: 2026-May-1 07:00:00-0400
+date: 2026-05-1 07:00:00-0400
 ---
 
 Our four papers "Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective,"

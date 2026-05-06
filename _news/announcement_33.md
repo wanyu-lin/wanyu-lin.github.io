@@ -1,7 +1,7 @@
 ---
 layout: post
 inline: true
-date: 2024-Oct-14 07:59:00-0400
+date: 2024-10-14 07:59:00-0400
 ---
 
 

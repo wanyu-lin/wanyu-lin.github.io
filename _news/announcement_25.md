@@ -1,7 +1,7 @@
 ---
 layout: post
 inline: true
-date: 2024-May-02 07:59:00-0400
+date: 2024-05-02 07:59:00-0400
 ---
 
 Our paper, Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration

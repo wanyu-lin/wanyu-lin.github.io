@@ -1,7 +1,7 @@
 ---
 layout: post
 inline: true
-date: 2025-Nov-16 07:00:00-0400
+date: 2025-11-16 07:00:00-0400
 ---
 
 Our three papers "Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property
