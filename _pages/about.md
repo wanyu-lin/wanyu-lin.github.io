@@ -34,10 +34,10 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Yixiang Chen (Incoming Ph.D. Candidate, Previously Undergraduate at HKUST) 
 <li>Mingxuan Ouyang (Mphil Candidate, Previously Master at HK PolyU)</li>
 <li>Minfeng Wu (Mphil Candidate, Previously Undergraduate at Xiamen University)</li>
-<li>Zehui Lin (Research Assistant, Previously Undergraduate Student at the University of Sydney)</li>
-<li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
-<li>Jingwen Yang (URIS Program, Undergraduate Student at HK PolyU)</li>
-<li>Shuxiu Jia (URIS Program, Undergraduate Student at HK PolyU)</li>
+<li>Zehui Lin (Research Assistant, Previously Undergraduate at the University of Sydney)</li>
+<li>Xu Sun (Research Assistant, Undergraduate at HK PolyU)</li>
+<li>Jingwen Yang (URIS Program, Undergraduate at HK PolyU)</li>
+<li>Shuxiu Jia (URIS Program, Undergraduate at HK PolyU)</li>
 
 <br>
 
@@ -51,7 +51,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <p> <strong>Alumni</strong>
 <ul class="square">
 <li>Jiayuan Zhang (Research Assistant 2025-2026), a Phd candidate at Beihang University</li>
-<li>Chusong Zhang (Summer Research Intern 2025), Undergraduate Student at Zhejiang University</li>
+<li>Chusong Zhang (Summer Research Intern 2025), Undergraduate at Zhejiang University</li>
 <li>Jian Chen (Postdoctor 2023-2025), an Assistant Professor at China University of Geosciences (Wuhan)</li>
 <li>Zhengzhong Wang (Ph.d. 2021-2024), an Assistant Professor at Xiamen University</li>
 <li>Jialu Li, Research Assistant (2021), a Ph.d. Candidate at Tijian University</li>
