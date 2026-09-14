@@ -9,7 +9,9 @@ nav: true
 <ul class="square">
 <p><hr>
 <strong>Selected Awards</strong>
+<li> Nomination by PolyU for MIT Technology Review Innovators Under 35 Asia Pacific 2025 </li>
 <li> PolyU Young Innovative Researcher Award, 2025 </li>
+<li> PRSC 2025 Best Paper Merit, 2025 </li>
 <li> CVPR 2022 Best Paper Finalist, 2022</li>
 <li>INFOCOM Student Conference Award, IEEE Communications Society, 2020</li>
 <li>SGS Conference Grant, School of Graduate Studies, University of Toronto, 2020</li>
