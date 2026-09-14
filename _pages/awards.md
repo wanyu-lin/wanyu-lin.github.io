@@ -11,7 +11,7 @@ nav: true
 <strong>Selected Awards</strong>
 <li> Nomination by PolyU for MIT Technology Review Innovators Under 35 Asia Pacific 2025 </li>
 <li> PolyU Young Innovative Researcher Award, 2025 </li>
-<li>DFintech Student Best Thesis Award  Honourable Mention </li>
+<li>DFintech Student Best Thesis Award Honourable Mention, 2025 </li>
 <li> PRSC 2025 Best Paper Merit, 2025 </li>
 <li> CVPR 2022 Best Paper Finalist, 2022</li>
 <li>INFOCOM Student Conference Award, IEEE Communications Society, 2020</li>
