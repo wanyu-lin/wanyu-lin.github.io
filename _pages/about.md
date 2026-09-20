@@ -48,7 +48,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 
 <p> <strong>Alumni</strong>
 <ul class="square">
-<li>Xu Sun (Research Assistant 2024-2026), a Mphil candidate at HK PolyU</li>
+<li>Xu Sun (Research Assistant 2024-2026), an Mphil candidate at HK PolyU</li>
 <li>Jiayuan Zhang (Research Assistant 2025-2026), a Phd candidate at Beihang University</li>
 <li>Chusong Zhang (Summer Research Intern 2025), Undergraduate at Zhejiang University</li>
 <li>Jian Chen (Postdoctor 2023-2025), an Assistant Professor at China University of Geosciences (Wuhan)</li>
