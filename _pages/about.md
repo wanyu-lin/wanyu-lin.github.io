@@ -30,8 +30,8 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Guodong Du (Ph.D. Candidate, Previously Undergraduate at UESTC)</li>
 <li>Zeyu An (Ph.D. Candidate, Previously Master at the University of UESTC)</li>
 <li>Shuhao Li (Ph.D. Candidate jointly supervised with EIT, Previously Undergraduate at Lanzhou University)</li>
-<li>Pengfei Zheng (Incoming Ph.D. Candidate, Previously Master at New York University and Undergraduate at University of California, Santa Barbara)
-<li>Yixiang Chen (Incoming Ph.D. Candidate, Previously Undergraduate at HKUST) 
+<li>Pengfei Zheng (Ph.D. Candidate, Previously Master at New York University and Undergraduate at University of California, Santa Barbara)
+<li>Yixiang Chen (Ph.D. Candidate, Previously Undergraduate at HKUST) 
 <li>Mingxuan Ouyang (Mphil Candidate, Previously Master at HK PolyU)</li>
 <li>Minfeng Wu (Mphil Candidate, Previously Undergraduate at Xiamen University)</li>
 <li>Zehui Lin (Research Assistant, Previously Undergraduate at the University of Sydney)</li>
